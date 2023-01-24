@@ -1,4 +1,4 @@
 # 🏄 João Roizen Fontana
 
-**` Developer `**
+**` Developer,  curioso, eterno aprendiz`**
 
