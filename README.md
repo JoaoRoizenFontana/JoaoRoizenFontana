@@ -2,7 +2,7 @@
 
 **` Developer,  curioso, eterno aprendiz`**
 
- Eu sou um developer, atualmente trabalhando como Data analyst na Feegow. Estou cursando ciência da computação na PUC-Rio e tenho interesse nas áreas de Web development, Data science, Game development, dentre outras.
+ Eu sou um developer, atualmente trabalhando como Data analyst na Feegow. Estou cursando ciência da computação na PUC-Rio e tenho interesse nas áreas de Web development, Data science, Game development, dentre outras. Todos os projetos foram construídos do zero, do planejamento e design até o produto final.
  
  ---
  
