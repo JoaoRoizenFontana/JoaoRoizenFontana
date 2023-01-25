@@ -4,6 +4,7 @@
 
 Developer, atualmente trabalhando como Data analyst na Feegow. Estou cursando ciência da computação na PUC-Rio e tenho interesse nas áreas de Web development, Data science, Game development, dentre outras. Todos os projetos foram construídos do zero, do planejamento e design até o produto final.
 
+Developer, currently working as a Data analyst at Feegow. I'm studying computer science at PUC-Rio and I'm interested in the areas of Web development, Data science, Game development, among others. All projects were built from scratch, from planning and design to the final product.
  ---
  
  ### 🧰 Linguagens e Ferramentas
