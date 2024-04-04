@@ -1,6 +1,6 @@
 # 🏄 João Roizen Fontana
 
-**` Developer,  curioso, eterno aprendiz`**
+**` Software Engineer`**
 
 Developer, atualmente trabalhando como Data analyst na Feegow. Estou cursando ciência da computação na PUC-Rio e tenho interesse nas áreas de Web development, Data science, Game development, dentre outras. Todos os projetos foram construídos do zero, do planejamento e design até o produto final.
 
