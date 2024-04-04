@@ -9,21 +9,23 @@ Developer, currently working as a Data analyst at Feegow. I'm studying computer 
 
  ---
  
- ### 🧰 Linguagens e Ferramentas
+ ### 🧰 Languages and Tools
           
           
           
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" /> 
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /> 
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /> 
  
  
  #
