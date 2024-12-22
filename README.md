@@ -13,9 +13,6 @@ Developer, currently working as a Data analyst at Doctoralia. Graduated in compu
 
           
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png)" />
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
- <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
