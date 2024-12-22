@@ -14,6 +14,7 @@ Developer, currently working as a Data analyst at Doctoralia. Graduated in compu
           
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
  <img align="left" alt="C" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
