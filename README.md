@@ -5,7 +5,7 @@
 Developer, atualmente trabalhando como Data analyst na Doctoralia. Formado em ciência da computação na PUC-Rio e tenho interesse nas áreas de Data Science, Machine Learning, dentre outras. Todos os projetos foram construídos do zero, do planejamento e design até o produto final.
 
 <img align="left" alt="C" width="20px" style="padding-right:10px;"  src="https://user-images.githubusercontent.com/38985296/214684826-4f12a1ab-230d-4e46-adcb-ba1dc38ead88.png" /> :
-Developer, currently working as a Data analyst at Doctoralia. Graduated in computer science at PUC-Rio and I'm interested in the areas of Data Science, Machine Learning, among others. All projects were built from scratch, from planning and design to the final product.
+Developer, currently working as a Data analyst at Doctoralia. Graduated in computer science at PUC-Rio and I'm interested in the fields of Data Science, Machine Learning, among others. All projects were built from scratch, from planning and design to the final product.
 
  ---
  
